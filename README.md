@@ -1,5 +1,5 @@
 
-# CREO3_STARTUP_DJDMP_BATCH
+# CREO3_STARTUP_DJDMP
 
 _한 방에 사내 표준 PTC CREO 환경을 설정해 주는 도구_
 
