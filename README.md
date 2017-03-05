@@ -6,7 +6,7 @@ _한 방에 사내 표준 PTC CREO 환경을 설정해 주는 도구_
 * 2017-03-06
 * by DymaxionKim
 * HealthCare Division of DaejinDMP Co., LTD.
-* Download : <https://github.com/dymaxionkim/CREO3_STARTUP_DJDMP/archive/master.zip>
+* Release : <https://github.com/dymaxionkim/CREO3_STARTUP_DJDMP/releases>
 
 ## 목적
 * 기계적으로 순서대로 따라하기만 하면 자동으로 작업환경 구성이 간단히 되도록 한다.
