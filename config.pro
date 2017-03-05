@@ -361,8 +361,8 @@ mapkey(continued) ~ Trail `UI Desktop` `UI Desktop` `PARAMETERS_TOGGLE` `'relati
 mapkey(continued) 'ParamsPHLay.ParTable' 'rowDESCRIPTION' 'attribute'`;\
 mapkey(continued) ~ Move `relation_dlg` `relation_dlg` 2 20.604263 4.385542;\
 mapkey(continued) ~ Activate `relation_dlg` `PB_OK`;
-pro_library_dir E:\GrabCAD\LIB
-search_path E:\GrabCAD\LIB
-search_path E:\GrabCAD\LIB\Connectors
-search_path E:\GrabCAD\LIB\Electronics
-search_path E:\GrabCAD\LIB\Fasteners
+pro_library_dir E:\GrabCAD\CREO3_STARTUP_DJDMP\LIB
+search_path E:\GrabCAD\CREO3_STARTUP_DJDMP\LIB
+search_path E:\GrabCAD\CREO3_STARTUP_DJDMP\LIB\Connectors
+search_path E:\GrabCAD\CREO3_STARTUP_DJDMP\LIB\Electronics
+search_path E:\GrabCAD\CREO3_STARTUP_DJDMP\LIB\Fasteners

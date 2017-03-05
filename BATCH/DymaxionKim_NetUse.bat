@@ -6,4 +6,7 @@ REM by Dymaxion.Kim@gmail.com
 
 REM If you connect E: drive on Network-Drive, Please copy this file into c: drive, and run this script as Administrator.
 REM You change "\\iptime\hdd3" to your own path.
-net use E: \\iptime\hdd3
+set USER=dong
+set PASSWD=2959
+net use E: \\iptime\hdd3 %PASSWD% /user:%USER% /persistent:no
+
